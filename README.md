@@ -1,4 +1,5 @@
-# docker-compose run the docker-compose.yml follow the steps
+# docker-compose 
+# run the docker-compose.yml follow the steps
 
 The image used in the docker-compose.yml file is mysql basic image
 
